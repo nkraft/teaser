@@ -1,6 +1,6 @@
-package edu.ua.cs.taser.cli.args;
+package edu.ua.cs.teaser.cli.args;
 
-import static edu.ua.cs.taser.io.Filenames.makePath;
+import static edu.ua.cs.teaser.io.Filenames.makePath;
 
 import com.beust.jcommander.Parameter;
 import com.beust.jcommander.ParameterException;
@@ -14,7 +14,7 @@ public final class RawArgs {
     private List<String> inputFiles = new LinkedList<String>();
 
     @Parameter(names = {"-o", "--output-dir"}, description = "Output directory")
-    private String outputDir = "taser-output";
+    private String outputDir = "teaser-output";
 
     @Parameter(names = {"-t", "--corpus-type"}, description = "Corpus type")
     private String corpusType = "method";

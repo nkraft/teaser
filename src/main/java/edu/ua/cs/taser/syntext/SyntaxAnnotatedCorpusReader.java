@@ -1,8 +1,8 @@
-package edu.ua.cs.taser.syntext;
+package edu.ua.cs.teaser.syntext;
 
-import edu.ua.cs.taser.document.EntityType;
-import edu.ua.cs.taser.lang.Numbers;
-import edu.ua.cs.taser.token.TokenType;
+import edu.ua.cs.teaser.document.EntityType;
+import edu.ua.cs.teaser.lang.Numbers;
+import edu.ua.cs.teaser.token.TokenType;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

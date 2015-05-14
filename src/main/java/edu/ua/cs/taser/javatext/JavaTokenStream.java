@@ -1,6 +1,6 @@
-package edu.ua.cs.taser.javatext;
+package edu.ua.cs.teaser.javatext;
 
-import edu.ua.cs.taser.token.TokenType;
+import edu.ua.cs.teaser.token.TokenType;
 
 import org.antlr.runtime.CommonTokenStream;
 import org.antlr.runtime.Token;

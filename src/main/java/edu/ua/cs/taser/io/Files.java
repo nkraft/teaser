@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.io;
+package edu.ua.cs.teaser.io;
 
 import java.io.IOException;
 import java.nio.file.Path;

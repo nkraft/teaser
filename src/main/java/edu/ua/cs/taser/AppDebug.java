@@ -1,13 +1,13 @@
-package edu.ua.cs.taser;
+package edu.ua.cs.teaser;
 
-import edu.ua.cs.taser.cli.args.RawArgs;
-import edu.ua.cs.taser.util.position.Position;
-import static edu.ua.cs.taser.util.position.Positions.position;
-import static edu.ua.cs.taser.util.position.Positions.rangePosition;
-import static edu.ua.cs.taser.util.position.Positions.headPosition;
-import static edu.ua.cs.taser.util.position.Positions.tailPosition;
-import static edu.ua.cs.taser.util.position.Positions.noPosition;
-import static edu.ua.cs.taser.io.Files.createDirectories;
+import edu.ua.cs.teaser.cli.args.RawArgs;
+import edu.ua.cs.teaser.util.position.Position;
+import static edu.ua.cs.teaser.util.position.Positions.position;
+import static edu.ua.cs.teaser.util.position.Positions.rangePosition;
+import static edu.ua.cs.teaser.util.position.Positions.headPosition;
+import static edu.ua.cs.teaser.util.position.Positions.tailPosition;
+import static edu.ua.cs.teaser.util.position.Positions.noPosition;
+import static edu.ua.cs.teaser.io.Files.createDirectories;
 
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.ParameterException;

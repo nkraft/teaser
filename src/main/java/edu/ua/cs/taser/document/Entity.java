@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.document;
+package edu.ua.cs.teaser.document;
 
 public interface Entity {
     public String getName();

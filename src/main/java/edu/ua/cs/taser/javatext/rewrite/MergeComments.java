@@ -1,11 +1,11 @@
-package edu.ua.cs.taser.javatext.rewrite;
+package edu.ua.cs.teaser.javatext.rewrite;
 
-import edu.ua.cs.taser.javatext.JavaDocument;
-import edu.ua.cs.taser.token.JavaToken;
-import edu.ua.cs.taser.token.TokenStream;
-import edu.ua.cs.taser.token.TokenType;
-import edu.ua.cs.taser.token.Tokens;
-import static edu.ua.cs.taser.util.position.Positions.rangePosition;
+import edu.ua.cs.teaser.javatext.JavaDocument;
+import edu.ua.cs.teaser.token.JavaToken;
+import edu.ua.cs.teaser.token.TokenStream;
+import edu.ua.cs.teaser.token.TokenType;
+import edu.ua.cs.teaser.token.Tokens;
+import static edu.ua.cs.teaser.util.position.Positions.rangePosition;
 
 import rx.util.functions.Func1;
 

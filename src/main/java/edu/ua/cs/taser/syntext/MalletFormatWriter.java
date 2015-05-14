@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.syntext;
+package edu.ua.cs.teaser.syntext;
 
 import java.io.File;
 import java.io.PrintWriter;

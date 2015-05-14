@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.util;
+package edu.ua.cs.teaser.util;
 
 import java.util.Set;
 

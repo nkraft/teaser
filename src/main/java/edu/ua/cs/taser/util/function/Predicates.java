@@ -1,7 +1,7 @@
-package edu.ua.cs.taser.util.function;
+package edu.ua.cs.teaser.util.function;
 
-import edu.ua.cs.taser.common.FileContent;
-import edu.ua.cs.taser.javatext.JavaDocument;
+import edu.ua.cs.teaser.common.FileContent;
+import edu.ua.cs.teaser.javatext.JavaDocument;
 
 import rx.util.functions.Func1;
 

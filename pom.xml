@@ -7,14 +7,14 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>edu.ua.cs.nkraft</groupId>
-  <artifactId>taser</artifactId>
+  <artifactId>teaser</artifactId>
   <version>0.4</version>
   <packaging>jar</packaging>
 
-  <name>taser</name>
-  <url>http://nkraft.github.io/taser</url>
+  <name>teaser</name>
+  <url>http://nkraft.github.io/teaser</url>
   <scm>
-    <url>https://github.com/nkraft/taser</url>
+    <url>https://github.com/nkraft/teaser</url>
   </scm>
 
   <properties>
@@ -92,7 +92,7 @@
           <shadedClassifierName>uber</shadedClassifierName>
           <transformers>
             <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-              <mainClass>edu.ua.cs.taser.App</mainClass>
+              <mainClass>edu.ua.cs.teaser.App</mainClass>
             </transformer>
           </transformers>
         </configuration>

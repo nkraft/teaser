@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.javatext;
+package edu.ua.cs.teaser.javatext;
 
 import rx.util.functions.Func1;
 

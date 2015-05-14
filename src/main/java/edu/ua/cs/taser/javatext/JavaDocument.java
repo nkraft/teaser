@@ -1,7 +1,7 @@
-package edu.ua.cs.taser.javatext;
+package edu.ua.cs.teaser.javatext;
 
-import edu.ua.cs.taser.document.JavaEntity;
-import edu.ua.cs.taser.token.JavaToken;
+import edu.ua.cs.teaser.document.JavaEntity;
+import edu.ua.cs.teaser.token.JavaToken;
 
 import java.util.ArrayList;
 import java.util.List;

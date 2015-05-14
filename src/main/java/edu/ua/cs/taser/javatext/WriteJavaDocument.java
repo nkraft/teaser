@@ -1,6 +1,6 @@
-package edu.ua.cs.taser.javatext;
+package edu.ua.cs.teaser.javatext;
 
-import edu.ua.cs.taser.io.Filenames;
+import edu.ua.cs.teaser.io.Filenames;
 
 import rx.util.functions.Action1;
 

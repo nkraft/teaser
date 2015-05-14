@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.text;
+package edu.ua.cs.teaser.text;
 
 import java.util.ArrayList;
 import java.util.List;

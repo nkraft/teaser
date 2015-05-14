@@ -1,13 +1,13 @@
-# TASER
+# TEASER
 
-TASER is a suite of open source tools that support research on the use of
+TEASER is a suite of open source tools that support research on the use of
 text analysis in software engineering.
 
 Copyright (c) 2010--2014, The Board of Trustees of The University of Alabama
 All rights reserved.
 
-TASER source code is distributed under a BSD 3-Clause License.
-See LICENSE or the https://raw.github.com/nkraft/taser/master/LICENSE
+TEASER source code is distributed under a BSD 3-Clause License.
+See LICENSE or the https://raw.github.com/nkraft/teaser/master/LICENSE
 
 ## Developers
 

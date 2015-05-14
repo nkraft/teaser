@@ -178,17 +178,17 @@ scope RefTypeBody {
 }
 
 @header {
-package edu.ua.cs.taser.javatext;
+package edu.ua.cs.teaser.javatext;
 
-import edu.ua.cs.taser.document.EntityType;
-import edu.ua.cs.taser.document.Entities;
-import edu.ua.cs.taser.document.JavaEntity;
-import edu.ua.cs.taser.io.Filenames;
-import edu.ua.cs.taser.token.JavaToken;
-import edu.ua.cs.taser.token.TokenType;
-import edu.ua.cs.taser.util.Stacks;
-import edu.ua.cs.taser.util.position.Position;
-import edu.ua.cs.taser.util.position.Positions;
+import edu.ua.cs.teaser.document.EntityType;
+import edu.ua.cs.teaser.document.Entities;
+import edu.ua.cs.teaser.document.JavaEntity;
+import edu.ua.cs.teaser.io.Filenames;
+import edu.ua.cs.teaser.token.JavaToken;
+import edu.ua.cs.teaser.token.TokenType;
+import edu.ua.cs.teaser.util.Stacks;
+import edu.ua.cs.teaser.util.position.Position;
+import edu.ua.cs.teaser.util.position.Positions;
 
 import java.io.File;
 }

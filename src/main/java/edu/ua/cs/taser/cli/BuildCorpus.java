@@ -1,13 +1,13 @@
-package edu.ua.cs.taser.cli;
+package edu.ua.cs.teaser.cli;
 
-import edu.ua.cs.taser.cli.args.RealizedArgs;
-import edu.ua.cs.taser.javatext.ReadJavaDocument;
-import edu.ua.cs.taser.syntext.SyntaxAnnotatedCorpus;
-import edu.ua.cs.taser.syntext.SyntaxAnnotatedDocument;
-import edu.ua.cs.taser.syntext.WriteSyntaxAnnotatedCorpus;
-import edu.ua.cs.taser.util.function.Functors;
-import edu.ua.cs.taser.util.function.Operators;
-import edu.ua.cs.taser.util.function.Predicates;
+import edu.ua.cs.teaser.cli.args.RealizedArgs;
+import edu.ua.cs.teaser.javatext.ReadJavaDocument;
+import edu.ua.cs.teaser.syntext.SyntaxAnnotatedCorpus;
+import edu.ua.cs.teaser.syntext.SyntaxAnnotatedDocument;
+import edu.ua.cs.teaser.syntext.WriteSyntaxAnnotatedCorpus;
+import edu.ua.cs.teaser.util.function.Functors;
+import edu.ua.cs.teaser.util.function.Operators;
+import edu.ua.cs.teaser.util.function.Predicates;
 
 import rx.schedulers.Schedulers;
 import static rx.Observable.from;

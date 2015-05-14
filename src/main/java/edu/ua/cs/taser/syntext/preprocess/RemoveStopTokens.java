@@ -1,12 +1,12 @@
-package edu.ua.cs.taser.syntext.preprocess;
+package edu.ua.cs.teaser.syntext.preprocess;
 
-import edu.ua.cs.taser.io.LineReader;
-import edu.ua.cs.taser.syntext.SyntaxAnnotatedCorpus;
-import edu.ua.cs.taser.syntext.SyntaxAnnotatedDocument;
-import edu.ua.cs.taser.syntext.SyntaxAnnotatedToken;
-import edu.ua.cs.taser.token.TokenStream;
-import static edu.ua.cs.taser.io.Filenames.makeFilename;
-import static edu.ua.cs.taser.lang.Strings.join;
+import edu.ua.cs.teaser.io.LineReader;
+import edu.ua.cs.teaser.syntext.SyntaxAnnotatedCorpus;
+import edu.ua.cs.teaser.syntext.SyntaxAnnotatedDocument;
+import edu.ua.cs.teaser.syntext.SyntaxAnnotatedToken;
+import edu.ua.cs.teaser.token.TokenStream;
+import static edu.ua.cs.teaser.io.Filenames.makeFilename;
+import static edu.ua.cs.teaser.lang.Strings.join;
 
 import rx.util.functions.Func1;
 

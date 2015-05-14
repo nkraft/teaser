@@ -1,7 +1,7 @@
-package edu.ua.cs.taser.document;
+package edu.ua.cs.teaser.document;
 
-import edu.ua.cs.taser.util.position.Position;
-import edu.ua.cs.taser.util.position.Positions;
+import edu.ua.cs.teaser.util.position.Position;
+import edu.ua.cs.teaser.util.position.Positions;
 
 public final class Entities {
 

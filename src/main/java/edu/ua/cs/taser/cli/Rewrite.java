@@ -1,14 +1,14 @@
-package edu.ua.cs.taser.cli;
+package edu.ua.cs.teaser.cli;
 
-import edu.ua.cs.taser.cli.args.RealizedArgs;
-import edu.ua.cs.taser.javatext.ReadJavaDocument;
-import edu.ua.cs.taser.javatext.WriteJavaDocument;
-import edu.ua.cs.taser.javatext.rewrite.FoldComments;
-import edu.ua.cs.taser.javatext.rewrite.MarkLeadingComments;
-import edu.ua.cs.taser.javatext.rewrite.MergeComments;
-import edu.ua.cs.taser.javatext.rewrite.SplitNonidentifiers;
-import edu.ua.cs.taser.util.function.Functors;
-import edu.ua.cs.taser.util.function.Predicates;
+import edu.ua.cs.teaser.cli.args.RealizedArgs;
+import edu.ua.cs.teaser.javatext.ReadJavaDocument;
+import edu.ua.cs.teaser.javatext.WriteJavaDocument;
+import edu.ua.cs.teaser.javatext.rewrite.FoldComments;
+import edu.ua.cs.teaser.javatext.rewrite.MarkLeadingComments;
+import edu.ua.cs.teaser.javatext.rewrite.MergeComments;
+import edu.ua.cs.teaser.javatext.rewrite.SplitNonidentifiers;
+import edu.ua.cs.teaser.util.function.Functors;
+import edu.ua.cs.teaser.util.function.Predicates;
 
 import rx.Scheduler;
 import rx.schedulers.Schedulers;

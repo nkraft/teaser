@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.common;
+package edu.ua.cs.teaser.common;
 
 import org.tartarus.snowball.SnowballStemmer;
 import org.tartarus.snowball.ext.englishStemmer;

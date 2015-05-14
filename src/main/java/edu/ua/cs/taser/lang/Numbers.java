@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.lang;
+package edu.ua.cs.teaser.lang;
 
 public final class Numbers {
 

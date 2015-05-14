@@ -1,6 +1,6 @@
-package edu.ua.cs.taser.io;
+package edu.ua.cs.teaser.io;
 
-import static edu.ua.cs.taser.lang.Strings.join;
+import static edu.ua.cs.teaser.lang.Strings.join;
 
 import java.io.IOException;
 import java.nio.file.FileSystems;

@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.common;
+package edu.ua.cs.teaser.common;
 
 import rx.util.functions.Func1;
 

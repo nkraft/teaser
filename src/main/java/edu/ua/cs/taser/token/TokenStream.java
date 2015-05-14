@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.token;
+package edu.ua.cs.teaser.token;
 
 import java.util.List;
 import java.util.ListIterator;

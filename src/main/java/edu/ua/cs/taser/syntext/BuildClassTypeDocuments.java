@@ -1,8 +1,8 @@
-package edu.ua.cs.taser.syntext;
+package edu.ua.cs.teaser.syntext;
 
-import edu.ua.cs.taser.document.JavaEntity;
-import edu.ua.cs.taser.javatext.JavaDocument;
-import edu.ua.cs.taser.token.JavaToken;
+import edu.ua.cs.teaser.document.JavaEntity;
+import edu.ua.cs.teaser.javatext.JavaDocument;
+import edu.ua.cs.teaser.token.JavaToken;
 
 import rx.util.functions.Func1;
 

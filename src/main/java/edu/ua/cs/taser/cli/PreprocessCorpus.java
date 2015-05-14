@@ -1,15 +1,15 @@
-package edu.ua.cs.taser.cli;
+package edu.ua.cs.teaser.cli;
 
-import edu.ua.cs.taser.cli.args.RealizedArgs;
-import edu.ua.cs.taser.syntext.ReadSyntaxAnnotatedCorpus;
-import edu.ua.cs.taser.syntext.SyntaxAnnotatedCorpus;
-import edu.ua.cs.taser.syntext.WriteSyntaxAnnotatedCorpus;
-import edu.ua.cs.taser.syntext.preprocess.LowercaseTokens;
-import edu.ua.cs.taser.syntext.preprocess.RemoveStopTokens;
-import edu.ua.cs.taser.syntext.preprocess.SplitTokens;
-import edu.ua.cs.taser.syntext.preprocess.StemTokens;
-import edu.ua.cs.taser.syntext.preprocess.WeightTokens;
-import edu.ua.cs.taser.util.function.Functors;
+import edu.ua.cs.teaser.cli.args.RealizedArgs;
+import edu.ua.cs.teaser.syntext.ReadSyntaxAnnotatedCorpus;
+import edu.ua.cs.teaser.syntext.SyntaxAnnotatedCorpus;
+import edu.ua.cs.teaser.syntext.WriteSyntaxAnnotatedCorpus;
+import edu.ua.cs.teaser.syntext.preprocess.LowercaseTokens;
+import edu.ua.cs.teaser.syntext.preprocess.RemoveStopTokens;
+import edu.ua.cs.teaser.syntext.preprocess.SplitTokens;
+import edu.ua.cs.teaser.syntext.preprocess.StemTokens;
+import edu.ua.cs.teaser.syntext.preprocess.WeightTokens;
+import edu.ua.cs.teaser.util.function.Functors;
 
 import rx.Scheduler;
 import rx.schedulers.Schedulers;

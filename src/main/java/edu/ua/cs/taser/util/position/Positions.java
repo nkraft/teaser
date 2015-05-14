@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.util.position;
+package edu.ua.cs.teaser.util.position;
 
 public final class Positions {
 

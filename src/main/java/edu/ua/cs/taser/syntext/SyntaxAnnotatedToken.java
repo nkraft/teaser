@@ -1,7 +1,7 @@
-package edu.ua.cs.taser.syntext;
+package edu.ua.cs.teaser.syntext;
 
-import edu.ua.cs.taser.token.Token;
-import edu.ua.cs.taser.token.TokenType;
+import edu.ua.cs.teaser.token.Token;
+import edu.ua.cs.teaser.token.TokenType;
 
 public class SyntaxAnnotatedToken implements Token {
 

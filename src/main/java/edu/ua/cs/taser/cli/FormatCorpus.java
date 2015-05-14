@@ -1,9 +1,9 @@
-package edu.ua.cs.taser.cli;
+package edu.ua.cs.teaser.cli;
 
-import edu.ua.cs.taser.cli.args.RealizedArgs;
-import edu.ua.cs.taser.syntext.FormatSyntaxAnnotatedCorpus;
-import edu.ua.cs.taser.syntext.ReadSyntaxAnnotatedCorpus;
-import edu.ua.cs.taser.util.function.Functors;
+import edu.ua.cs.teaser.cli.args.RealizedArgs;
+import edu.ua.cs.teaser.syntext.FormatSyntaxAnnotatedCorpus;
+import edu.ua.cs.teaser.syntext.ReadSyntaxAnnotatedCorpus;
+import edu.ua.cs.teaser.util.function.Functors;
 
 import rx.Scheduler;
 import rx.schedulers.Schedulers;

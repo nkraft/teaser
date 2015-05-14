@@ -1,7 +1,7 @@
-package edu.ua.cs.taser.token;
+package edu.ua.cs.teaser.token;
 
-import edu.ua.cs.taser.document.JavaEntity;
-import edu.ua.cs.taser.util.position.Positionable;
+import edu.ua.cs.teaser.document.JavaEntity;
+import edu.ua.cs.teaser.util.position.Positionable;
 
 public interface JavaToken extends Token, Positionable {
     public JavaEntity getEntity();

@@ -1,7 +1,7 @@
-package edu.ua.cs.taser.document;
+package edu.ua.cs.teaser.document;
 
-import edu.ua.cs.taser.util.HierarchicalType;
-import edu.ua.cs.taser.util.HierarchicalTypes;
+import edu.ua.cs.teaser.util.HierarchicalType;
+import edu.ua.cs.teaser.util.HierarchicalTypes;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,7 +1,7 @@
-package edu.ua.cs.taser.common;
+package edu.ua.cs.teaser.common;
 
-import edu.ua.cs.taser.util.position.Position;
-import edu.ua.cs.taser.util.position.Positions;
+import edu.ua.cs.teaser.util.position.Position;
+import edu.ua.cs.teaser.util.position.Positions;
 
 import org.antlr.runtime.BitSet;
 import org.antlr.runtime.IntStream;

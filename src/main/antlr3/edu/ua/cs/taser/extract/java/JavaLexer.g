@@ -171,7 +171,7 @@ options {
 }
 
 @header {
-    package edu.ua.cs.taser.javatext;
+    package edu.ua.cs.teaser.javatext;
 }
 
 ABSTRACT : 'abstract' ;

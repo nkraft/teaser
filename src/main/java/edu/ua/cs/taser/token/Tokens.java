@@ -1,10 +1,10 @@
-package edu.ua.cs.taser.token;
+package edu.ua.cs.teaser.token;
 
-import edu.ua.cs.taser.document.Entities;
-import edu.ua.cs.taser.document.EntityType;
-import edu.ua.cs.taser.document.JavaEntity;
-import edu.ua.cs.taser.util.position.Position;
-import edu.ua.cs.taser.util.position.Positions;
+import edu.ua.cs.teaser.document.Entities;
+import edu.ua.cs.teaser.document.EntityType;
+import edu.ua.cs.teaser.document.JavaEntity;
+import edu.ua.cs.teaser.util.position.Position;
+import edu.ua.cs.teaser.util.position.Positions;
 
 public final class Tokens {
 

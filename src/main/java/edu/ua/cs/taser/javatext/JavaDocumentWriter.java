@@ -1,10 +1,10 @@
-package edu.ua.cs.taser.javatext;
+package edu.ua.cs.teaser.javatext;
 
-import edu.ua.cs.taser.document.JavaEntity;
-import edu.ua.cs.taser.javatext.JavaDocument;
-import edu.ua.cs.taser.token.JavaToken;
-import edu.ua.cs.taser.util.position.Position;
-import edu.ua.cs.taser.util.position.Positions;
+import edu.ua.cs.teaser.document.JavaEntity;
+import edu.ua.cs.teaser.javatext.JavaDocument;
+import edu.ua.cs.teaser.token.JavaToken;
+import edu.ua.cs.teaser.util.position.Position;
+import edu.ua.cs.teaser.util.position.Positions;
 
 import java.io.File;
 import java.io.FileWriter;

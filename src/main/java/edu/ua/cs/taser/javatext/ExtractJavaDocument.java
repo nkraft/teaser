@@ -1,9 +1,9 @@
-package edu.ua.cs.taser.javatext;
+package edu.ua.cs.teaser.javatext;
 
-import edu.ua.cs.taser.common.FileContent;
-import edu.ua.cs.taser.document.EntityType;
-import edu.ua.cs.taser.document.JavaEntity;
-import edu.ua.cs.taser.token.JavaToken;
+import edu.ua.cs.teaser.common.FileContent;
+import edu.ua.cs.teaser.document.EntityType;
+import edu.ua.cs.teaser.document.JavaEntity;
+import edu.ua.cs.teaser.token.JavaToken;
 
 import org.antlr.runtime.ANTLRStringStream;
 import org.antlr.runtime.RecognitionException;

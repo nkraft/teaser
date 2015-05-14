@@ -1,6 +1,6 @@
-package edu.ua.cs.taser.document;
+package edu.ua.cs.teaser.document;
 
-import edu.ua.cs.taser.util.position.Positionable;
+import edu.ua.cs.teaser.util.position.Positionable;
 
 public interface JavaEntity extends Entity, Positionable {
     public JavaEntity getParent();

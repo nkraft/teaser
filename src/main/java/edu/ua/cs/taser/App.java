@@ -1,18 +1,18 @@
-package edu.ua.cs.taser;
+package edu.ua.cs.teaser;
 
-import edu.ua.cs.taser.cli.BuildCorpus;
-import edu.ua.cs.taser.cli.Extract;
-import edu.ua.cs.taser.cli.FormatCorpus;
-import edu.ua.cs.taser.cli.PreprocessCorpus;
-import edu.ua.cs.taser.cli.Rewrite;
-import edu.ua.cs.taser.cli.args.RawArgs;
-import edu.ua.cs.taser.cli.args.RealizedArgs;
-import edu.ua.cs.taser.io.Files;
-import edu.ua.cs.taser.javatext.JavaLexerType;
-import edu.ua.cs.taser.syntext.BuildMethodDocuments;
-import edu.ua.cs.taser.syntext.BuildClassTypeDocuments;
-import edu.ua.cs.taser.javatext.JavaDocument;
-import edu.ua.cs.taser.syntext.SyntaxAnnotatedDocument;
+import edu.ua.cs.teaser.cli.BuildCorpus;
+import edu.ua.cs.teaser.cli.Extract;
+import edu.ua.cs.teaser.cli.FormatCorpus;
+import edu.ua.cs.teaser.cli.PreprocessCorpus;
+import edu.ua.cs.teaser.cli.Rewrite;
+import edu.ua.cs.teaser.cli.args.RawArgs;
+import edu.ua.cs.teaser.cli.args.RealizedArgs;
+import edu.ua.cs.teaser.io.Files;
+import edu.ua.cs.teaser.javatext.JavaLexerType;
+import edu.ua.cs.teaser.syntext.BuildMethodDocuments;
+import edu.ua.cs.teaser.syntext.BuildClassTypeDocuments;
+import edu.ua.cs.teaser.javatext.JavaDocument;
+import edu.ua.cs.teaser.syntext.SyntaxAnnotatedDocument;
 
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.ParameterException;

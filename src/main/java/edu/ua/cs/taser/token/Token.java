@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.token;
+package edu.ua.cs.teaser.token;
 
 public interface Token {
     public String getText();

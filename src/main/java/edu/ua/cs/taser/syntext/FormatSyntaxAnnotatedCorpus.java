@@ -1,6 +1,6 @@
-package edu.ua.cs.taser.syntext;
+package edu.ua.cs.teaser.syntext;
 
-import edu.ua.cs.taser.io.Filenames;
+import edu.ua.cs.teaser.io.Filenames;
 
 import rx.util.functions.Action1;
 

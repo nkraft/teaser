@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.text;
+package edu.ua.cs.teaser.text;
 
 public class Word {
 

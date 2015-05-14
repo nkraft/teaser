@@ -1,8 +1,8 @@
-package edu.ua.cs.taser.cli.args;
+package edu.ua.cs.teaser.cli.args;
 
-import edu.ua.cs.taser.javatext.JavaLexerType;
-import edu.ua.cs.taser.javatext.JavaDocument;
-import edu.ua.cs.taser.syntext.SyntaxAnnotatedDocument;
+import edu.ua.cs.teaser.javatext.JavaLexerType;
+import edu.ua.cs.teaser.javatext.JavaDocument;
+import edu.ua.cs.teaser.syntext.SyntaxAnnotatedDocument;
 
 import java.nio.file.Path;
 import java.util.List;

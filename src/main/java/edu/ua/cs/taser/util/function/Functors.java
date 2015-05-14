@@ -1,4 +1,4 @@
-package edu.ua.cs.taser.util.function;
+package edu.ua.cs.teaser.util.function;
 
 import rx.Observable;
 import rx.util.functions.Func1;
